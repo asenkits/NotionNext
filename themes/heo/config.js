@@ -1,7 +1,7 @@
 const CONFIG = {
   HOME_BANNER_ENABLE: true,
 
-  SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  SITE_CREATE_TIME: '2023-07-28', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
@@ -10,7 +10,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享工具使用',
-  HERO_TITLE_2: '与学习教程',
+  HERO_TITLE_2: '学习教程',
   HERO_TITLE_3: 'asenkits.top',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
@@ -90,7 +90,7 @@ const CONFIG = {
     }
   ],
 
-  SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   SOCIAL_CARD_TITLE_1: '交流频道',
   SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
   SOCIAL_CARD_TITLE_3: '点击加入社群',
