@@ -17,8 +17,8 @@ const CONFIG = {
   HERO_TITLE_LINK: 'asenkits.top',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '工具推荐', url: '/tag/必看精选' },
-  HERO_CATEGORY_2: { title: '学习路径', url: '/tag/热门文章' },
+  HERO_CATEGORY_1: { title: '工具推荐', url: '/tag/工具推荐' },
+  HERO_CATEGORY_2: { title: '学习路径', url: '/tag/学习路径' },
   HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
