@@ -318,7 +318,7 @@ const BLOG = {
 
   SEO_BAIDU_SITE_VERIFICATION:
       process.env.NEXT_PUBLIC_SEO_BAIDU_SITE_VERIFICATION || '', // Remove the value or replace it with your own google site verification code
-
+  meta name="baidu-site-verification" content="codeva-hxbI45M20e"
   // <---- 站点统计
 
   // 谷歌广告
