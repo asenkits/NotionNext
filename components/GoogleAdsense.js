@@ -61,7 +61,7 @@ const AdSlot = ({ type = 'show' }) => {
             data-ad-format="fluid"
             data-adtest={BLOG.ADSENSE_GOOGLE_TEST ? 'on' : 'off'}
             data-ad-client={BLOG.ADSENSE_GOOGLE_ID}
-            data-ad-slot={BLOG.ADSENSE_GOOGLE_SLOT_IN_ARTICLE}></ins>
+            data-ad-slot={7935026532}></ins>
   }
 
   // 信息流广告
@@ -90,7 +90,7 @@ const AdSlot = ({ type = 'show' }) => {
         style={{ display: 'block' }}
         data-ad-client={BLOG.ADSENSE_GOOGLE_ID}
         data-adtest={BLOG.ADSENSE_GOOGLE_TEST ? 'on' : 'off'}
-        data-ad-slot={BLOG.ADSENSE_GOOGLE_SLOT_AUTO}
+        data-ad-slot={4530666824}
         data-ad-format="auto"
         data-full-width-responsive="true"></ins>
 }
