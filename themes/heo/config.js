@@ -12,8 +12,8 @@ const CONFIG = {
   HERO_TITLE_1: '分享工具使用',
   HERO_TITLE_2: '学习教程',
   HERO_TITLE_3: 'asenkits.top',
-  HERO_TITLE_4: '手写背单词',
-  HERO_TITLE_5: '日语电子新标日初级上单词默写本',
+  HERO_TITLE_4: '电子笔记',
+  HERO_TITLE_5: '新标日初级单词默写本',
   HERO_TITLE_LINK: 'https://shop173428462.taobao.com/',
 
   // 英雄区显示三个置顶分类
