@@ -225,12 +225,12 @@ function TodayCard({ cRef }) {
                     <div className='text-xs font-light'>{CONFIG.HERO_TITLE_4}</div>
                     <div className='text-3xl font-bold'>{CONFIG.HERO_TITLE_5}</div>
                 </div>
-                <div onClick={handleClickMore} className={`'${isCoverUp ? '' : 'hidden pointer-events-none '} flex items-center px-3 h-10 justify-center bg-[#425aef] hover:bg-[#4259efcb] transition-colors duration-100 rounded-3xl`}>
+                <div onClick={handleClickMore} className={`'${isCoverUp ? '' : 'hidden pointer-events-none '} flex items-center px-3 h-10 justify-center bg-[#af7a2f] hover:bg-[#4259efcb] transition-colors duration-100 rounded-3xl`}>
                     <PlusSmall className={'w-6 h-6 mr-2 bg-white rounded-full stroke-indigo-400'} />
                     <div id='more' className='select-none'>更多推荐</div>
                 </div>
             </div>
-            <div id='today-card-cover' className={`${isCoverUp ? '' : ' pointer-events-none'} cursor-pointer today-card-cover absolute w-full h-full top-0`} style={{ background: "url('https://s2.loli.net/2023/08/20/nFreHbfOUqoTsiy.png') no-repeat center /cover" }}></div>
+            <div id='today-card-cover' className={`${isCoverUp ? '' : ' pointer-events-none'} cursor-pointer today-card-cover absolute w-full h-full top-0`} style={{ background: "url('https://s2.loli.net/2023/08/20/nOskJNz2DQ9qhLZ') no-repeat center /cover" }}></div>
         </div>
     </div>
 }
