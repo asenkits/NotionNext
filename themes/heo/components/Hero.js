@@ -348,7 +348,7 @@ function TodayCard({ cRef }) {
           isCoverUp
             ? 'opacity-100 cursor-pointer'
             : 'opacity-0 transform scale-110 pointer-events-none'
-        } shadow transition-all duration-200 today-card h-full bg-[#0E57D5] rounded-xl relative overflow-hidden flex items-end`}
+        } shadow transition-all duration-200 today-card h-full bg-[#5C4835] rounded-xl relative overflow-hidden flex items-end`}
       >
         <div
           id="today-card-info"
@@ -362,7 +362,7 @@ function TodayCard({ cRef }) {
             onClick={handleClickMore}
             className={`'${
               isCoverUp ? '' : 'hidden pointer-events-none '
-            } flex items-center px-3 h-10 justify-center bg-[#425aef] hover:bg-[#4259efcb] transition-colors duration-100 rounded-3xl`}
+            } flex items-center px-3 h-10 justify-center bg-[#af7a2f] hover:bg-[#4259efcb] transition-colors duration-100 rounded-3xl`}
           >
             <PlusSmall
               className={'w-6 h-6 mr-2 bg-white rounded-full stroke-indigo-400'}
@@ -379,7 +379,7 @@ function TodayCard({ cRef }) {
           } cursor-pointer today-card-cover absolute w-full h-full top-0`}
           style={{
             background:
-              "url('https://bu.dusays.com/2023/03/12/640dcd3a1b146.png') no-repeat center /cover"
+              "url('https://i2.100024.xyz/2023/08/27/in6c7q.webp') no-repeat center /cover"
           }}
         ></div>
       </div>
